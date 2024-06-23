@@ -1,0 +1,5 @@
+displayName = Creatures: Prelude
+author = XNTEABDSC
+version = 0.1
+modReferences = WackyBagTr
+hideResources = true

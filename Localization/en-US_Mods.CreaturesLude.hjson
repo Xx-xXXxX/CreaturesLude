@@ -1,0 +1,13 @@
+NPCs: {
+	ChaosBoss.DisplayName: Chaos Boss
+	SpamedChaosBoss.DisplayName: Spamed Chaos Boss
+	KidChaosBoss.DisplayName: Kid Chaos Boss
+}
+
+Projectiles: {
+	ProjCircler.DisplayName: Proj Circler
+	ProjProChaser.DisplayName: Proj Pro Chaser
+	NormalProj.DisplayName: Normal Proj
+	Beam.DisplayName: Beam
+	ProjEZChaser.DisplayName: Proj E Z Chaser
+}
